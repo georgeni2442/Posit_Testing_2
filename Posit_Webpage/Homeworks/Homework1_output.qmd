@@ -1,0 +1,6 @@
+---
+title: "Homework 1 Output"
+format: html
+---
+
+This will be the first homework link, that we'll add to the main index page.

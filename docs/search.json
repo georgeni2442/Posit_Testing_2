@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Posit_Webpage",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nThe link to homework 1 will be here: link"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "Homeworks/Homework1_output.html",
+    "href": "Homeworks/Homework1_output.html",
+    "title": "Homework 1 Output",
+    "section": "",
+    "text": "This will be the first homework link, that we’ll add to the main index page."
   }
 ]

@@ -5,3 +5,6 @@ title: "Posit_Webpage"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+
+The link to homework 1 will be here: [link]("C:\Users\georg\OneDrive\Documents\R\Posit_Testing_2\Posit_Webpage\Homeworks\Homework1_output.html")
