@@ -1,5 +1,6 @@
 ---
 title: "Posit_Webpage"
+format: pdf
 ---
 
 This is a Quarto website.
